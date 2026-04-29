@@ -2,6 +2,8 @@
 
 AIFitness_Tracker is a professional-grade web application designed to bridge the gap between data tracking and intelligent coaching. Built using **Laravel 11**, it leverages the **Gemini 1.5 Flash API** to provide users with instant, customized workout and nutrition plans based on their specific goals and available equipment.
 
+📸 Screenshots
+
 ## 🚀 Key Features
 
 -   **AI Coach & Nutritionist:** Instant generation of dual-track plans (Workout + Diet) using Google's Gemini AI.
@@ -47,23 +49,6 @@ Serve the App:
 
 Bash
 php artisan serve
-📸 Screenshots
-(Add your portfolio screenshots here, especially the AI Generator and Dashboard!)
 
 Developed by Saim Bakhtiar
 
----
-
-### **4. Recommended GitHub Topics (Tags)**
-Adding these makes your repo discoverable by recruiters:
-`laravel` `php` `ai` `gemini-api` `fitness-tracker` `full-stack` `tailwind-css` `alpinejs` `software-development`
-
----
-
-### **5. Professional "Final Touch" Tips**
-* **The `LICENSE` file:** Choose the **MIT License**. It tells people they can look at your code but protects you from liability.
-* **The `.gitignore`:** Ensure your `.env` and `vendor/` folder are ignored. You don't want to accidentally leak your Gemini API key! 
-* **Commit Messages:** Use professional messages like:
-    * `feat: add Gemini API service for workout generation`
-    * `fix: resolve CSRF issue on AI generator button`
-    * `ui: implement glassmorphic dashboard cards`
