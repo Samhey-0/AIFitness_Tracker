@@ -20,7 +20,7 @@ AIFitness_Tracker is a professional-grade web application designed to bridge the
 
 -   **AI Coach & Nutritionist:** Instant generation of dual-track plans (Workout + Diet) using Google's Gemini AI.
 -   **Dynamic Activity Tracking:** Professional workout timer and live step counter powered by **Alpine.js**.
--   **No-NPM Architecture:** High-end performance using Tailwind CSS and Alpine.js via CDN for a zero-build-step deployment.
+-   **Architecture:** High-end performance using Tailwind CSS and Alpine.js via CDN for a zero-build-step deployment.
 -   **Glassmorphic UI:** A clean, modern interface focused on premium UX and mobile responsiveness.
 -   **Progress Analytics:** Visualized data tracking using **Chart.js**.
 
