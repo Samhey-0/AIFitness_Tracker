@@ -3,11 +3,17 @@
 AIFitness_Tracker is a professional-grade web application designed to bridge the gap between data tracking and intelligent coaching. Built using **Laravel 11**, it leverages the **Gemini 1.5 Flash API** to provide users with instant, customized workout and nutrition plans based on their specific goals and available equipment.
 
 📸 Screenshots
+**AI-Chatbot**
 ![chatbot](Screenshots/AIchatbot.jpeg)
+**Dashboard**
 ![dashboard](Screenshots/Dashboard.jpeg)
+**TrackWorkout**
 ![track](Screenshots/TrackWorkout.jpeg)
+**DarkMode**
 ![Dark](Screenshots/Darkmode.jpeg)
+**Login-Page**
 ![login](Screenshots/Login.jpeg)
+**stats**
 ![stats](Screenshots/stats.jpeg)
 
 ## 🚀 Key Features
